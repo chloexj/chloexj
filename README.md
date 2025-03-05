@@ -1,16 +1,18 @@
 # 👋 Hi, I'm Chloe! 
 
 ### 🚀 About Me 
+
 - 🎓 Master's student in **Computer Science**
 - 💻 Passionate about **Backend Development** & **Full-Stack Engineering**
 - 🌱 Currently learning **React.js**, **AI (Reinforcement Learning)**, and **IoT with Arduino**
-- 🏆 Solved **280+ LeetCode problems** and working on **Data Structures & Algorithms**
+- 🏆 Solved **320+ LeetCode problems** and working on **Data Structures & Algorithms**
 - 🎮 Enjoys **games**, **manga**, and **anime**
 - 🌍 Fluent in **Chinese**, improving my **English**
-  
+
 ---
 
 ### **🛠 Tech Stack**
+
 💻 **Programming:**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
@@ -31,23 +33,42 @@
 ---
 
 ### **📌 Featured Projects**
+
 #### **🍽️ Restaurant Management System (Full-Stack)**
+
 - 🛠 **Tech:** `Spring Boot`, `MyBatis`, `Vue.js`, `Element UI`, `MySQL`, `Redis`, `JWT`, `AWS S3`
 - 🚀 Features: Employee & Menu Management, Image Upload, WebSockets, Role-based Authentication
-- 🔗 **Backend:** [GitHub Repo](https://github.com/chloexj/chloe-restaurant-backend)
-- 🔗 **Frontend:** [GitHub Repo](https://github.com/chloexj/chloe-restaurant-admin-frontend)
+- 🔗 **Backend:** [Restaurant Backend](https://github.com/chloexj/chloe-restaurant-backend)
+- 🔗 **Frontend:** [Restaurant Frontend](https://github.com/chloexj/chloe-restaurant-admin-frontend)
+
+---
 
 #### **🧩 Puzzle Game (Java, JFrame)**
+
 - 🛠 **Tech:** `Java (JFrame)`,  Encryption`, `Local Storage`
 - 🔒 Encrypted login system with **hidden special images** for specific accounts
 - 🎮 Supports **saving/loading progress, changing images, cheat mode**
-- 🔗 **GitHub Repo:** [GitHub Repo](https://github.com/chloexj/puzzle-game-JFrame)
+- 🔗 **GitHub Repo:** [Puzzle Game](https://github.com/chloexj/puzzle-game-JFrame)
+
+---
+
+#### **📚 LeetCode Review - Spaced Repetition for Coding Practice**
+
+- 🛠 **Tech:** `JavaScript`, `HTML`, `CSS`
+- 🚀 A web tool inspired by **Anki flashcards**, designed to help users review **LeetCode problems** using **spaced repetition**.
+- 🔹 Features (In Progress):  
+  - **Review Mode** (learned cards) & **Study Mode** (new problems)  
+  - **Memory curve-based reminders** for problem revisiting  
+  - **Tag-based filtering** for problem sets  
+  - **LeetCode problem auto-fetching** via URLs  
+- 🔗 **GitHub Repo:** [LeetCode Review](https://github.com/chloexj/lcReview.git)
 
 ---
 
 ### **📫 Connect with Me!**
+
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/chloexj)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)]([linkedin.com/in/xianjing-zhang-8445bb142](https://www.linkedin.com/in/xianjing-zhang-8445bb142))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)]([linkedin.com/in/chloezhangxj](https://www.linkedin.com/in/chloezhangxj/))
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](chloe.xj.zhang@outlook.com)
 
 ✨ *Happy Coding!* 🚀
