@@ -1,17 +1,16 @@
-# 👋 Hi, I'm Chloe! 
+# 👋 Hi, I'm Chloe!
 
-### 🚀 About Me 
+## 🚀 About Me
 
 - 🎓 Master's student in **Computer Science**
-- 💻 Passionate about **Backend Development** & **Full-Stack Engineering**
-- 🌱 Currently learning **React.js**, **AI (Reinforcement Learning)**, and **IoT with Arduino**
-- 🏆 Solved **320+ LeetCode problems** and working on **Data Structures & Algorithms**
+- 💻 Passionate about **Backend Development**; currently exploring **React**, **AI**, and **IoT**
 - 🎮 Enjoys **games**, **manga**, and **anime**
-- 🌍 Fluent in **Chinese**, improving my **English**
+- 🌍 Fluent in **Chinese** and **English**
+- [![LeetCode](https://img.shields.io/badge/LeetCode-490%2B-orange)](https://leetcode.com/chloexj/) Solved **490+ LeetCode problems** to continuously improve algorithmic thinking  
 
 ---
 
-### **🛠 Tech Stack**
+## 🛠 Tech Stack
 
 💻 **Programming:**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
@@ -32,43 +31,73 @@
 
 ---
 
-### **📌 Featured Projects**
+## 📌 Featured Projects
 
-#### **🍽️ Restaurant Management System (Full-Stack)**
+### 🌐 Full-Stack & Software Development
+
+#### 🍽️ Restaurant Management System (Full-Stack)
 
 - 🛠 **Tech:** `Spring Boot`, `MyBatis`, `Vue.js`, `Element UI`, `MySQL`, `Redis`, `JWT`, `AWS S3`
-- 🚀 Features: Employee & Menu Management, Image Upload, WebSockets, Role-based Authentication
-- 🔗 **Backend:** [Restaurant Backend](https://github.com/chloexj/chloe-restaurant-backend)
+- 🚀 Employee & Menu Management, Image Upload, WebSockets, Role-based Authentication
+- 🔗 **Backend:** [Restaurant Backend](https://github.com/chloexj/chloe-restaurant-backend)  
 - 🔗 **Frontend:** [Restaurant Frontend](https://github.com/chloexj/chloe-restaurant-admin-frontend)
 
 ---
 
-#### **🧩 Puzzle Game (Java, JFrame)**
+#### 🧩 Puzzle Game (Java, JFrame)
 
-- 🛠 **Tech:** `Java (JFrame)`,  Encryption`, `Local Storage`
-- 🔒 Encrypted login system with **hidden special images** for specific accounts
-- 🎮 Supports **saving/loading progress, changing images, cheat mode**
+- 🛠 **Tech:** `Java (JFrame)`, `Encryption`, `Local Storage`
+- 🔒 Built an encrypted login system with **hidden special images** for specific accounts, supporting **progress saving/loading, image switching, and cheat mode**
 - 🔗 **GitHub Repo:** [Puzzle Game](https://github.com/chloexj/puzzle-game-JFrame)
 
 ---
 
-#### **📚 LeetCode Review - Spaced Repetition for Coding Practice**
+#### 📚 LeetCode Review - Spaced Repetition for Coding Practice
 
 - 🛠 **Tech:** `JavaScript`, `HTML`, `CSS`
-- 🚀 A web tool inspired by **Anki flashcards**, designed to help users review **LeetCode problems** using **spaced repetition**.
-- 🔹 Features (In Progress):  
-  - **Review Mode** (learned cards) & **Study Mode** (new problems)  
-  - **Memory curve-based reminders** for problem revisiting  
-  - **Tag-based filtering** for problem sets  
-  - **LeetCode problem auto-fetching** via URLs  
+- 🚀 A web tool inspired by **Anki flashcards**, designed to help users review **LeetCode problems** using **spaced repetition**
 - 🔗 **GitHub Repo:** [LeetCode Review](https://github.com/chloexj/lcReview.git)
 
 ---
 
-### **📫 Connect with Me!**
+### 🧠 AI & Machine Learning Projects
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/chloexj)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)]([linkedin.com/in/chloezhangxj](https://www.linkedin.com/in/chloezhangxj/))
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](chloe.xj.zhang@outlook.com)
+#### 🖐️ Gesture Recognition (Hand Pose Classification)
+
+- 🛠 **Tech:** `MediaPipe`, `k-NN`, `SVM`, `Random Forest`, `MLP`, `Python`
+- 🧪 Real-time **gesture classification** using MediaPipe hand landmarks, supporting gesture tracking and multiple ML model comparison
+- 🔗 **GitHub Repo:** [Gesture Recognition](https://github.com/chloexj/gesture_recognition.git)
+
+---
+
+#### 📄 PPT Page Turn by Gesture
+
+- 🛠 **Tech:** `Python`, `MediaPipe`
+- 🎯 Built a gesture-controlled **presentation tool** that detects hand movements to trigger **forward/backward slide turning**
+- 🔗 **GitHub Repo:** [PPT Page Turn](https://github.com/chloexj/PPT_page_turn.git)
+
+---
+
+#### 🐶 Cat or Dog Image Classifier
+
+- 🛠 **Tech:** `TensorFlow`, `CNN`, `Python`
+- 🐾 Trained a **CNN** to classify cat and dog images using raw labeled data and evaluated model performance
+- 🔗 **GitHub Repo:** [Cat or Dog Classifier](https://github.com/chloexj/catOrDog.git)
+
+---
+
+#### 🏦 Bank Marketing Prediction
+
+- 🛠 **Tech:** `Pandas`, `Scikit-learn`, `XGBoost`, `Random Forest`
+- 📈 Applied ML models to classify client response to marketing campaigns (UCI dataset)
+- 🔗 **GitHub Repo:** [Bank Marketing](https://github.com/chloexj/BankMarketing)
+
+---
+
+## 📫 Connect with Me!
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/chloexj)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chloezhangxj/)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:chloe.xj.zhang@outlook.com)
 
 ✨ *Happy Coding!* 🚀
