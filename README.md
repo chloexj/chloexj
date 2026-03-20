@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Chloe!
 
-## 🚀 About Me
+## About Me
 
 - 🎓 Master's student in **Computer Science**
-- 💻 Passionate about **Backend Development**; currently exploring **React**, **AI**, and **IoT**
+- 💻 Full-stack developer & Machine Learning engineer
 - 🎮 Enjoys **games**, **manga**, and **anime**
-- 🌍 Fluent in **Chinese** and **English**
-- [![LeetCode](https://img.shields.io/badge/LeetCode-490%2B-orange)](https://leetcode.com/chloexj/) Solved **490+ LeetCode problems** to continuously improve algorithmic thinking  
+
+Personal site: [chloexj.github.io](https://chloexj.github.io/)
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 💻 **Programming:**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
@@ -31,7 +31,7 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 🌐 Full-Stack & Software Development
 
